@@ -1,3 +1,6 @@
+# Add entry for .DS_store
+.DS_Store
+
 # Logs
 logs
 *.log
